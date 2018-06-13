@@ -1,3 +1,44 @@
-p {
-  color: red;
+h1 {
+	font-size: 30px;
+	text-align: center;
+	margin-bottom:0;
+	margin-top: 0;
 }
+h2 {
+	font-size: 20px;
+	text-align: center;
+	margin: 3px;
+}
+h3 {
+	font-size: 20px;
+	text-align: left;
+	margin-bottom: 0px;
+}
+p{
+	font-size: 18px;
+	text-align: left;
+}
+hr {
+	width: 100%;
+}
+.container {
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 10px 50px 10px 50px;
+    background-color: #F5F5F5;
+    text-align: center;
+    }
+li {
+	text-align: left;
+	font-size: 18px;
+	padding-left: 10px;
+}
+ul {
+	display: block;
+}
+.float-right{
+	float: right;
+}
+
+
